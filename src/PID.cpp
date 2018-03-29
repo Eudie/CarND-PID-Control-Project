@@ -11,7 +11,7 @@ PID::PID() {}
 PID::~PID() {}
 
 void PID::Init(double Kp, double Ki, double Kd) {
-  this->Kp = Kp; // Proportionnal term
+  this->Kp = Kp; // Proportional term
 	this->Ki = Ki; // Integral term
 	this->Kd = Kd; // Differential term
 
