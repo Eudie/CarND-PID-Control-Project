@@ -22,9 +22,9 @@ If we use only proportional coefficient than trajectory merge quickly to centre 
 
 The final hyperparameters are P = 0.2, I = 0.0, D = 3.0, which I have selected using hit and trial in this version. Following videos are some example of my iterations:
 
-[p=0.2,d=3.0,i=0-final_video](video/p_0-2_d_3-0_i_0-0.mp4)<br/>
-[p=1,d=0,i=0](video/p_1-0_d_0-0_i_0-0.mp4)<br/>
-[p=1,d=1,i=0](video/p_1-0_d_1-0_i_0-0.mp4)
+[p=0.2,d=3.0,i=0-final_video](https://youtu.be/wbWURMcayuY)<br/>
+[p=1,d=0,i=0](https://youtu.be/oBmG8EV3pAg)<br/>
+[p=1,d=1,i=0](https://youtu.be/Q2rtHsRq2fc)
 
 ---
 
